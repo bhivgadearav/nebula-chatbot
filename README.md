@@ -13,6 +13,7 @@ This project is an AI chatbot application built using Streamlit. It leverages Op
 - Context-aware responses using GPT-4o-mini
 
 ## Libraries and Tools Used
+- [LangChain](https://www.langchain.com/)
 - [Streamlit](https://streamlit.io/)
 - [OpenAI GPT-4o-mini](https://platform.openai.com/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
