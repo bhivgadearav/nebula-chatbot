@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Nebula Chatbot</h1>
-    <img src="./src/pubic/nebula-avatar.png" alt="Nebula Logo" width="250"/>
+    <img src="./src/pubic/robot.jpg" alt="Nebula Logo" width="250"/>
 </div>
 
 ## Description
