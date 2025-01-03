@@ -8,7 +8,7 @@ from session_manager import SessionManager
 from chatbot import Chatbot
 import time
 from PIL import Image
-nebula_favicon = Image.open("src/pubic/favicon-32x32.png") 
+nebula_favicon = Image.open("src/pubic/favicon-16x16.png") 
 nebula_chat_icon = Image.open("src/pubic/robot.jpg")
 
 def render_api_key_input():
